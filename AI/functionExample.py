@@ -1,7 +1,6 @@
 # 사각형의 넓이를 구하는 간단한 예(함수 이용)
 def calculate_rectangle_area(x,y):
-    result = x * y
-    return result
+    return x * y
 
 
 rectangle_x = 10
