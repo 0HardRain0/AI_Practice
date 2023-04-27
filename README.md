@@ -5,6 +5,6 @@
 
 IDE : Pycharm
 
-Tech Stack
+## Tech Stack
 
 Python, Jupyter
